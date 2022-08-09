@@ -31,7 +31,7 @@ font-size: 1em;
         <a class="nav-link active" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./add">Add</a>
+        <a class="nav-link" href="/add">Add</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="./select">Search</a>
